@@ -149,6 +149,7 @@ h4 {
     width: 330px !important;
     height: 320px !important;
     background-color: #F5FCFF !important;
+    
 }
 
 .rectangle {
@@ -174,4 +175,7 @@ h4 {
     display: flex;
     justify-content: space-between;
 
+}
+.border-top{
+    border-top: 1.8px solid #ced4da !important;
 }
